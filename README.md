@@ -7,3 +7,7 @@ Exercises, labs, and handouts oriented for physics students for Siena's CSIS 110
 <a href="http://nbviewer.ipython.org/urls/raw.github.com/mattbellis/CSIS_110/master/labs_and_exercises/Notebook%2520intro.ipynb">Learning the Notebook</a>
 
 <a href="http://nbviewer.ipython.org/urls/raw.github.com/mattbellis/CSIS_110/master/labs_and_exercises/Learning%2520the%2520notebook%2520-%2520Assignment%25200.ipynb">Assignment 0</a>
+
+<a href="http://nbviewer.ipython.org/urls/raw.github.com/mattbellis/CSIS_110/master/labs_and_exercises/Starting%2520with%2520matplotlib.ipynb">Starting with matplotlib</a>
+
+
