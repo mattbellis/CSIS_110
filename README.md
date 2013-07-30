@@ -10,4 +10,6 @@ Exercises, labs, and handouts oriented for physics students for Siena's CSIS 110
 
 <a href="http://nbviewer.ipython.org/urls/raw.github.com/mattbellis/CSIS_110/master/labs_and_exercises/Starting%2520with%2520matplotlib.ipynb">Starting with matplotlib</a>
 
+<h1>Other resources</h1>
 
+<a href="https://www.wakari.io/gallery">Helpful notebooks.</a> Many of these notebooks are tutorials about Python and its associated libraries. 
