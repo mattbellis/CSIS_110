@@ -3,6 +3,7 @@ CSIS_110
 
 Exercises, labs, and handouts oriented for physics students for Siena's CSIS 110, introductory computer science course. Python is the language of choice for the class. 
 
+<a href="http://nbviewer.ipython.org/urls/raw.github.com/mattbellis/CSIS_110/master/labs_and_exercises/Python%2520install%2520cheat%2520sheet.ipynb">Python install cheat sheet.</a>
 
 <a href="http://nbviewer.ipython.org/urls/raw.github.com/mattbellis/CSIS_110/master/labs_and_exercises/Notebook%2520intro.ipynb">Learning the Notebook</a>
 
@@ -11,6 +12,8 @@ Exercises, labs, and handouts oriented for physics students for Siena's CSIS 110
 <a href="http://nbviewer.ipython.org/urls/raw.github.com/mattbellis/CSIS_110/master/labs_and_exercises/Starting%2520with%2520matplotlib.ipynb">Starting with matplotlib</a>
 
 <a href="http://nbviewer.ipython.org/urls/raw.github.com/mattbellis/CSIS_110/master/labs_and_exercises/Calculating%2520pi.ipynb">Calculating pi using a Monte Carlo method.</a>
+
+<a href="http://nbviewer.ipython.org/urls/raw.github.com/mattbellis/CSIS_110/master/labs_and_exercises/Bioinformatics%2520problems%2520taken%2520from%2520Rosalind.ipynb">Bioinformatics problems taken from Rosalind</a>
 
 <h1>Other resources</h1>
 
